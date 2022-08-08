@@ -1,8 +1,7 @@
 /*
-   SIM800L SMS RELAY v1.0
-   Arduino Hardware (Author): Nano V3 (ATmega328)
-   Arduino IDE (Author): 1.6.9
-   T.K.Hareendran/2018
+   SIM800L GSM MOTOR CONTROLLER v1.5.2
+   Arduino Hardware : ATmega328P-PU
+   ANOOF C
 */
 
 #include <SoftwareSerial.h>
